@@ -1,0 +1,15 @@
+{
+  "patient_age_years": 62,
+  "symptom_duration_hours": 44,
+  "fever_present": 1,
+  "neck_stiffness": 0,
+  "body_temperature_celsius": 38.0,
+  "heart_rate_bpm": 91,
+  "blood_pressure_systolic_mmhg": 133,
+  "blood_pressure_diastolic_mmhg": 86,
+  "respiratory_rate_breaths_per_minute": 18,
+  "oxygen_saturation_percent": 92.9,
+  "comorbidities_count": 0,
+  "symptom_description": "Significant headache for 24 hours. Throbbing pain. Had some nausea.",
+  "symptom_type": "Headache"
+}
